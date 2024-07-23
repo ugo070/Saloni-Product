@@ -1,0 +1,33 @@
+/* styles.css */
+
+/* Set background color for paragraph tags */
+p {
+    background-color: aqua;
+}
+
+/* Set text color for paragraph tags */
+p {
+    color: blueviolet;
+}
+
+/* Set color of text embraced by <strong> tag to brown */
+strong {
+    color: brown;
+}
+
+/* Hover effect on <strong> tag */
+strong:hover {
+    background-color: beige;
+}
+
+/* CSS class for product names */
+.names {
+    font-family: sans-serif;
+    font-size: larger;
+    
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
